@@ -12,8 +12,8 @@ To start this application, ``` mvn ``` and ``` java 1.8 ``` should be installed 
 # Application code
 
 ```
-$ git clone ssh://git@gitlab.com:2222/arugsoft/config-server.git
-$ cd openapi-spec
+$ git clone https://github.com/arugunta-soft-solu/spring-open-api-spec.git
+$ cd spring-open-api-spec
 $ mvn clean package
 
 ```
