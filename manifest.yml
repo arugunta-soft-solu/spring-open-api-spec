@@ -1,0 +1,7 @@
+applications:
+- memory: 512M
+  instances: 1
+  name: open-api-sepc
+  host: open-api-sepc
+  path: target/openapi-spec-0.0.1-SNAPSHOT.jar
+  buildpack: java_buildpack_offline
