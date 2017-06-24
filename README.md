@@ -1,6 +1,6 @@
 # Spring-Open API specification
 
-Demo project for Open API specification with Spring Boot. Refer [OpenAPI-Specification] to more about the standards. This project is implemented to demonstrate these specification.
+Demo project for Open API specification with Spring Boot. Refer [OpenAPI-Specification] to know more about the standards. This project is implemented to demonstrate these specification.
 
 [OpenAPI-Specification]: <https://github.com/arugunta-soft-solu/OpenAPI-Specification>
 
